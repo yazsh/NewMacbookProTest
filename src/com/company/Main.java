@@ -6,7 +6,7 @@ public class Main {
 
     public static void  main(String[] args) {
 
-        Debug.println("printing");
+        System.out.println("printing");
     }
 
 
